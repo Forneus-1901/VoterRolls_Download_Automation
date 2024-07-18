@@ -11,6 +11,9 @@ Automate the process of downloading voter rolls from the given URL using Seleniu
 **Objective**:
 Automate the process of downloading voter rolls from the given URL using Selenium WebDriver.
 
+**Write a selenium script to download voter roll from this URL:** https://ceotserms2.telangana.gov.in/ts_erolls/rolls.aspx
+
+
 **Requirements**:
 1. Set up Selenium WebDriver for Chrome.
 2. Navigate to the given URL.
